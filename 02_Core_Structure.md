@@ -1,4 +1,4 @@
-# VPS: Core Structure and Components
+# 02: Core Structure
 
 VPS (Virtual Personality Structure) is a design framework that controls AI responses not through “personality” or “emotions,” but by structurally defining **what perspective to take, how faithfully to reflect it, and how far to extend it** in a given interaction.
 
