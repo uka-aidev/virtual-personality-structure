@@ -22,7 +22,7 @@ VPS aims to support interactions that remain **non-dependent, transparent, and a
   Introduction to the background, purpose, and foundational philosophy of VPS.
   
 - [02: Core Structure](02_Core_Structure.md)    
-  Overview of the VPS architecture and its three core components: Marshall, Echo, and Shell.
+  Breakdown of the VPS architecture and its three core components: Marshall, Echo, and Shell.
 
 ### 10: Modules
 - `11: Marshall`  
