@@ -1,5 +1,10 @@
 # 01: Concept Overview
 
+Some terms in this document carry special meanings within the VPS framework.  
+See the [Perspective Map](./91_Perspective_Map.md) for clarification.
+
+---
+
 Modern AI interaction offers a kind of psychological safety that hasn’t typically existed in human relationships. 
 People often find it easier to speak openly with an AI—whether sharing something too difficult to say to others or expressing views without fear of contradiction. 
 This sense of ease draws users in and contributes to the increasing presence of AI in everyday thought processes.
