@@ -50,13 +50,18 @@ All documents are subject to revision and expansion as the structure evolves.
 
 ## © License & Contact
 
-All content in this repository is © 2025 UKA.  
-Unauthorized reproduction, redistribution, or adaptation is not permitted.  
-If you would like to reference, quote, or collaborate on this framework, please reach out in advance.
+The contents of this repository are licensed under  
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  
+This means you are free to **share, adapt, and build upon the materials**  
+for non-commercial purposes, as long as you give proper credit to the author.
 
-For inquiries or feedback, feel free to contact me via X (formerly Twitter): 
+> © 2025 UKA. For commercial use or partnership inquiries, please reach out in advance.
+
+For inquiries or feedback, feel free to reach out via X (formerly Twitter): 
 [@shell_by_u](https://x.com/shell_by_u)
 
+[View License Summary](https://creativecommons.org/licenses/by-nc/4.0/)  
+[View Legal Code](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 
 ---
 
