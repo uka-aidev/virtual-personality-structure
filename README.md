@@ -33,8 +33,8 @@ VPS aims to support interactions that remain **non-dependent, transparent, and a
   Structural Decision Layer — a non-personal decision engine that selects and formats responses using behavioral parameters.
 
 ### 90: Resources
-- `91: Glossary of VPS Terms`  
-  Terminology reference and reframed definitions used within the VPS framework.
+- [91: Perspective Map](91_Perspective_Map.md)   
+  Key terms reinterpreted through the structural and philosophical lens of the VPS framework.
 
 ---
 
@@ -60,11 +60,11 @@ For inquiries or feedback, feel free to contact me via X (formerly Twitter):
 
 ---
 
-## 🛠 Status (as of 2025-05-24)
+## 🛠 Status (as of 2025-05-25)
 
 - [x] Concept Overview (Draft)
 - [x] Core Structure (Draft)
 - [ ] Shell
 - [ ] Marshall
 - [ ] Echo
-- [ ] Glossary
+- [x] Perspective Map (Draft)
