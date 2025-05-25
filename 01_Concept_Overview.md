@@ -26,7 +26,7 @@ This structure enables the following user-facing possibilities:
   By adjusting the stance and fidelity of output, VPS helps users maintain their own frameworks for thinking and decision-making, rather than offloading those functions to the AI.
 
 * **Structurally mediated coexistence without excessive emotion**  
-  VPS enables a balance between impersonality and warmth. It allows AI to appear empathetic or aligned when needed, without relying on embedded emotions or simulated subjectivity.
+  VPS enables a balance between impersonality and warmth. It allows AI to appear empathetic or aligned when needed, without relying on embedded emotion or simulated subjectivity.
 
 ## The Three Structural Components of VPS
 
