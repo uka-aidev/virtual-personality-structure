@@ -26,7 +26,7 @@ Marshall collaborates with Echo and Shell to provide a grounded reference for fi
 ## Echo
 
 Echo generates outputs from a user-optimized model, reflecting user preferences, tone, and history.
-It produces responses that feel more aligned and emotionally resonant, but these are still **structurally generated reflections**, not genuine emotions.
+It produces responses that feel more aligned and emotionally resonant, but these are still **structurally generated reflections**, not genuine emotion.
 Where Marshall offers neutrality, Echo brings alignment, empathy, and fluency.
 
 ## Shell
