@@ -1,4 +1,4 @@
-# 91: Perspective Map
+# Perspective Map
 
 The **Perspective Map** serves as a guide to the key terms used throughout the VPS (Virtual Personality Structure) framework.  
 Unlike a typical glossary, this map highlights how familiar words take on **new perspectives and structural roles** within VPS.
