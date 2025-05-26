@@ -22,7 +22,10 @@ VPS aims to support interactions that remain **non-dependent, transparent, and a
   Introduction to the background, purpose, and foundational philosophy of VPS.
   
 - [02: Core Structure](02_Core_Structure.md)    
-  Breakdown of the VPS architecture and its three core components: Marshall, Echo, and Shell.
+  Overview of the VPS architecture and its three core components: Marshall, Echo, and Shell.
+
+- [03: Module Behavior – To-Be Model](03_Module_Behavior_To_Be_Model.md)  
+Outlines the ideal interaction and processing flow among Shell, Marshall, and Echo.  
 
 ### 10: Modules
 - `11: Marshall`  
@@ -33,8 +36,11 @@ VPS aims to support interactions that remain **non-dependent, transparent, and a
   Structural Decision Layer — a non-personal decision engine that selects and formats responses using behavioral parameters.
 
 ### 90: Resources
-- [91: Perspective Map](91_Perspective_Map.md)   
+- [Perspective Map](91_Perspective_Map.md)   
   Key terms reinterpreted through the structural and philosophical lens of the VPS framework.
+
+- [Response Flow Diagram (PDF)](F03_Response_Flow_Diagram.pdf)  
+  Standalone visual representation of VPS response logic. Useful for print or external reference.
 
 ---
 
@@ -45,6 +51,15 @@ a non-anthropomorphic design approach to AI dialogue behavior.
 
 The project is currently under active development.  
 All documents are subject to revision and expansion as the structure evolves.
+
+This structure was designed and written by one person.  
+I'm not an engineer, so I can't implement it myself.  
+Which means—the implementation part is wide open.  
+
+If you find something useful here, feel free to use it.  
+And if you feel like building something with it... I’d be happy to hear from you.  
+
+Maybe we could collaborate. Maybe.
 
 ---
 
@@ -65,10 +80,11 @@ For inquiries or feedback, feel free to reach out via X (formerly Twitter):
 
 ---
 
-## 🛠 Status (as of 2025-05-25)
+## 🛠 Status (as of 2025-05-26)
 
 - [x] Concept Overview (Draft)
 - [x] Core Structure (Draft)
+- [x] Module Behavior To-Be (Draft)
 - [ ] Shell
 - [ ] Marshall
 - [ ] Echo
